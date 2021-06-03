@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saptarishi-das
-- 👀 I’m software engineer by profession. Amature photographer, hobbyist Gitar player and adventure junkie
+- 👀 I’m software engineer by profession. Adventure junkie, Tech entusiast, Hobbyist Photographer, Beginner Guitarist
 - 🌱 I’m currently trying to learn AI/ML. 
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me saptarishi.das28@gmail.com
