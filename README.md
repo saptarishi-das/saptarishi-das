@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saptarishi-das
+- 👋 Hi, I’m Saptarishi Das
 - 👀 I’m software engineer by profession. Adventure junkie, Tech entusiast, Hobbyist Photographer, Beginner Guitarist
 - 🌱 I’m currently trying to learn AI/ML. 
 - 💞️ I’m looking to collaborate on github
